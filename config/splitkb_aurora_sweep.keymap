@@ -7,5 +7,4 @@
 /* source the main keymap */
 #include "base.keymap"
 
-/* use 5-column layout for Zen */
-ZMK_APPLY_MATRIX_TRANSFORM(five_column_transform)
+ZMK_APPLY_MATRIX_TRANSFORM(default_transform)

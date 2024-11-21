@@ -4,5 +4,5 @@ parse_config:
     - "modules/helpers/include"
 
 draw_config:
-  footer_text: "urob/zmk-config"
+  footer_text: "frnmjn/zmk-config"
   dark_mode: auto
